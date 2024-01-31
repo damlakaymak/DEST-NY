@@ -1,9 +1,11 @@
 ## DESTİNY
 
--- HTML,CSS kullanılarak tasarlandı.
+-- It was designed using HTML, CSS.
 
---RESPONSİVE yapıya sahitir.
+--It has a RESPONSIVE structure.
 
---Ortak alanlar  ve görselleriyle harika bir web sitesidir.
+--It is a great website with common areas and images.
 
---Birçok alanda web site olarak hizmet sunabilir.
+##GİF
+
+<img src="screen.gif"/>
